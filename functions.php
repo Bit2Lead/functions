@@ -3,7 +3,7 @@
 function monthly_payment_dates($start_date, $months){
 	/*
     	This function takes two input as $start_date and number of $months.
-        Outpus:
+        Outputs: []
         expiry_date => The date when contract should ends.
         dates_array => like monthly payment dates in every months, 
         date_diff => like how many days in between start_date and expiry_date,
