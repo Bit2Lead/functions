@@ -40,3 +40,8 @@ function monthly_payment_dates($start_date, $months){
 function new_function(){
 	echo "local new func";
 }
+
+function remot_func(){
+	echo "func  re";
+}
+
