@@ -36,6 +36,10 @@ function monthly_payment_dates($start_date, $months){
     return ['dates_array' => $dates_array, 'date_diff' => $date_diff, 'dates_count' => count($dates_array), 'expiry_date' => $next_date];
 }
 
+function remote_conflict(){
+	echo "remote";
+}
+
 
 function local_conflit(){
 	echo "Local";
