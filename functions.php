@@ -37,11 +37,3 @@ function monthly_payment_dates($start_date, $months){
 }
 
 
-function local_conflict(){
-	echo "local conflict";
-}
-
-function new_func(){
-	echo "Hellow..";
-}
-
