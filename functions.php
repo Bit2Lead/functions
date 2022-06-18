@@ -37,3 +37,6 @@ function monthly_payment_dates($start_date, $months){
 }
 
 
+function lk(){
+	echo "I am from local";
+}
