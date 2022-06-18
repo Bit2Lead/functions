@@ -37,3 +37,8 @@ function monthly_payment_dates($start_date, $months){
 }
 
 
+function local_conflit(){
+	echo "Local";
+}
+
+
